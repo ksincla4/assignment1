@@ -1,3 +1,9 @@
+html {
+    color: black;
+    
+}
+
 a {
-    font-family: fantasy;
+    font-family: sans-serif; color: darksalmon
+    
 }
